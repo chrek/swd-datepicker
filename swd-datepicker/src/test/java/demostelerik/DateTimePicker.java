@@ -13,7 +13,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class DateTimePicker {
 
 	// Date and Time to be set in textbox
-	String dateTime = "01/26/2019 7:30 PM";
+	String dateTime = "01/26/2019 8:30 PM";
 
 	private static WebDriver driver;
 
